@@ -15,6 +15,7 @@ const query = graphql`
           id
           name
         }
+        strapiId
       }
     }
   }
