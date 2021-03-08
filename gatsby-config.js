@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Albert Padilla Portfolio",
+    title: "Albert Portfolio",
     description: "Albert Padilla WebDev Portfolio Site",
     author: "Albert Padilla",
     twitterUsername: "@imbrikis",
