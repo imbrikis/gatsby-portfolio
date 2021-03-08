@@ -4,7 +4,7 @@ import Navbar from "./Navbar"
 import Sidebar from "./Sidebar"
 import Footer from "./Footer"
 const Layout = ({ children }) => {
-  const [sidebarIsOpen, setSidebarIsOpen] = useState(true)
+  const [sidebarIsOpen, setSidebarIsOpen] = useState(false)
   const toggleSidebar = () => {
     setSidebarIsOpen(!sidebarIsOpen)
   }
