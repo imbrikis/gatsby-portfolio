@@ -1,4 +1,6 @@
 ## Gatsby Portfolio
 
-CMS: Strapi
-Email Contact form: Formspree
+### Built from the Gatsby Udemy Course
+
+- The CMS is Strapi
+- The Email Contact form is submitted through Formspree
