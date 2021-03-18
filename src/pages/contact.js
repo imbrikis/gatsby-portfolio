@@ -8,7 +8,7 @@ const contact = () => {
       <SEO title="Contact" description="Contact Page" />
       <section className="contact-page">
         <article className="contact-form">
-          <h3>get in touch</h3>
+          <h3>get in touch!</h3>
           <form action="https://formspree.io/f/xvovegzy" method="POST">
             <div className="form-group">
               <input
