@@ -11,7 +11,7 @@ export default [
     id: 2,
     icon: <FaSketch className="service-icon" />,
     title: "web design",
-    text: `I'm experienced designing responsive website and applications in Figma. I'm able to create some pretty cool animations as well. I could get lost for hours in the design world.`,
+    text: `I'm experienced at designing responsive websites and applications in Figma. I'm able to create some pretty cool animations as well. I could get lost for hours in the design world.`,
   },
   {
     id: 3,
